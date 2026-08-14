@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building automatically'
-                echo 'welcome to Bhutan'              
+                echo 'welcome to Mumbai'              
             }
         }
  stage('Test') {
